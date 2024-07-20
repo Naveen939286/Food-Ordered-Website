@@ -15,4 +15,4 @@ The website provides a user-friendly interface to browse a menu of available foo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/food-ordering-website.git
+   git clone https://github.com/Naveen939286/Food-Ordered-Website.git
